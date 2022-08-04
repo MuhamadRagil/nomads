@@ -21,7 +21,7 @@
 
     <div class="card shadow">
         <div class="card-body">
-            <tabel class="table table-bordered">
+            <table class="table table-bordered">
                 <tr>
                     <th>ID</th>
                     <td>{{ $item->id }}</td>
@@ -70,7 +70,7 @@
                         </table>
                     </td>
                 </tr>
-            </tabel>
+            </table>
         </div>
     </div>
 
