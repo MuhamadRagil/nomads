@@ -36,7 +36,11 @@
                             <div class="xzoom-thumbs">
                                 @foreach ($item->galleries as $gallery)
                                 <a href="{{ Storage::url($gallery->image) }}">
-                                    <img src="{{ Storage::url($gallery->image) }}" class="xzoom-gallery" width="128" xpreview="{{ Storage::url($gallery->image) }}">
+                                    <img 
+                                    src="{{ Storage::url($gallery->image) }}" 
+                                    class="xzoom-gallery" 
+                                    width="128" 
+                                    xpreview="{{ Storage::url($gallery->image) }}">
                                 </a>
                                 @endforeach
                             </div>

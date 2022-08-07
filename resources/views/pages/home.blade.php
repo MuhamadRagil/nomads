@@ -129,7 +129,7 @@
                         </div>
                         <hr>
                         <p class="trip-to mt-2">
-                            Trip to ubud
+                            Trip to bandung
                         </p>
                     </div>
                 </div>
@@ -147,7 +147,7 @@
                         </div>
                         <hr>
                         <p class="trip-to mt-2">
-                            Trip to Nusa Penida
+                            Trip to bali
                         </p>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                         </div>
                         <hr>
                         <p class="trip-to mt-2">
-                            Trip to Karimun Jawa
+                            Trip to yogyakarta
                         </p>
                     </div>
                 </div>
